@@ -33,7 +33,7 @@
         <header class="header">
             <div class="wrapper clearfix">
                 <div class="logo">
-                    <img src="<?php echo SITEURL; ?>/images/logo.jpg" alt="Vijay Thapa" title="Online Examination System - Vijay Thapa" />
+                    <img src="<?php echo SITEURL; ?>/images/logo.png" alt="Vijay Thapa" title="Online Examination System - Vijay Thapa" />
                 </div>
                 
                 <div class="head-title">
