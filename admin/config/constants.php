@@ -14,7 +14,7 @@ define('DBNAME', 'quizapp'); //Your Database Name if it's not 'quizapp'
 
 
 
-define('SITEURL', 'http://localhost/online-examination-system/'); //Update the home URL of the project if you have changed port number or it's live on server
+define('SITEURL', 'http://localhost/ENT-PROJECT/'); //Update the home URL of the project if you have changed port number or it's live on server
 
 
 
