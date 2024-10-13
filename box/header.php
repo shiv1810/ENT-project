@@ -3,12 +3,12 @@
     <head>
         <!--Meta Tags Starts Here-->
         <meta charset="UTF-8" />
-        <meta name="author" content="Vijay Thapa - Online Examination System" />
-        <meta name="description" content="Test Preparation Portal by Vijay Thapa." />
-        <meta name="keywords" content="Test Preaparation, Online Portal, Online Exam System, Vijay Thapa, Kathmandu, Nepal" />
+        <meta name="author" content="Online Examination System" />
+        <meta name="description" content="Test Preparation Portal" />
+        <meta name="keywords" content="Test Preaparation, Online Portal" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
         <!--Meta Tags Ends Here-->
-        <title>Online Examination System - Vijay Thapa</title>
+        <title>Online Examination System</title>
         
         <!--COUNT DOWN TIMER STARTS HERE-->
         <script src="<?php echo SITEURL; ?>/assets/js/countdown/jquery.js"></script>
@@ -33,7 +33,7 @@
         <header class="header">
             <div class="wrapper clearfix">
                 <div class="logo">
-                    <img src="<?php echo SITEURL; ?>/images/logo.png" alt="Vijay Thapa" title="Online Examination System - Vijay Thapa" />
+                    <img src="<?php echo SITEURL; ?>/images/logo.png"  title="Online Examination System" />
                 </div>
                 
                 <div class="head-title">
