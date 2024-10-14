@@ -101,7 +101,7 @@
     line-height: 50px;
 }
 .main .content .welcome .ques{
-    text-align: left;
+    text-align: justify;
 }
 .main .content .welcome .radio-ans{
     font-size: 90%;
@@ -306,12 +306,12 @@
 .left-ques
 {
     width: 45%;
-    float: left;
-    text-align: left;
+    float: center;
+    text-align: justify;
 }
 .answers{
     width: 50%;
-    float: right;
+    float: left;
     text-align: left;
 }
 .left-ques img{
